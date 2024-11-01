@@ -1,4 +1,4 @@
-# ABN-Amro-Assessment: Recipe Web Service
+# Recipe Web Service
 Recipe Web Service is specifically designed and implemented as part of ABN Amro Technical Interview. Recipe Web Service contains ReST APIs in order to Create, Get, Update and Delete recipe from the database and render the requested details as JSON response to end user. The response from ReST APIs can be further integrated with front end view for better presentation.
 
 ### System Design
